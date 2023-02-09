@@ -5,4 +5,3 @@ Step to open project: Open the folder
 3) continue registration and 
 4) login in the page
 5) home page
-6) ho to according to your choice 
